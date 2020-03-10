@@ -1,4 +1,4 @@
-# Download_Microsoft_Azure_and_Cloud_Symbol_Icon_Set
+# Download-Microsoft-Azure-and-Cloud-Symbol-Icon-Set
 
 The Microsoft Azure, Cloud and Enterprise Symbol / Icon Set package is available as a free download from Microsoft and includes icons for almost all Azure services and Microsoft cloud related technologies currently available.
 
